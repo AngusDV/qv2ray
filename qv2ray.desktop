@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=qv2ray
+Icon=/home/hsm/v2ray/logo.svg
+Exec="/home/hsm/v2ray/Qv2ray-v2.7.0.AppImage"
+Terminal=false
+StartupNotify=true
