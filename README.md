@@ -1,10 +1,10 @@
-Qv2ray For linux
+# Qv2ray For linux
 
-Server:
+# Server:
 
 https://privacymelon.com/how-to-setup-v2ray-ws-tls-cdn/
 
-Client:
+# Client:
 
 qv2ray :
 
