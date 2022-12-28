@@ -20,7 +20,7 @@ copy qv2ray.desktop to address /home/{your home folder}/.local/share/application
 
 
 
-
+# چجوری ترافیک خارجی را روی ترافیک ایران بندازیم
 
 
 از این دو روش استفاده کن 
