@@ -1,8 +1,10 @@
 # Qv2ray For linux
 
-# Server:
+# Learn Install Server:
 
 https://privacymelon.com/how-to-setup-v2ray-ws-tls-cdn/
+# Server Installation 
+bash <(curl -Ls https://raw.githubusercontent.com/NidukaAkalanka/x-ui-english/master/install.sh)
 
 # Client:
 
